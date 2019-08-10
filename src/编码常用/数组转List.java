@@ -10,9 +10,9 @@ import java.util.Iterator;
  */
 public class 数组转List {
     public static void main(String[] args) {
-        Integer[] arrays = {1, 2, 3, 4};//需要注意的是，这里的类型是Integer, 大写的
+        Integer[] arrays = {1, 2, 3, 4};//知识点1：需要注意的是，这里的类型是Integer, 大写的
         ArrayList<Integer> arrayList = new ArrayList<>(Arrays.asList(arrays));//转成可以add的ArrayList
-        //迭代器删除元素
+        //知识点2：迭代器删除元素
         Iterator<Integer> iterator = arrayList.iterator();
         while (iterator.hasNext()) {
             int x = iterator.next();
@@ -22,7 +22,7 @@ public class 数组转List {
         }
         System.out.println(arrayList);
 
-        //判断数组中是否包含某个元素
+        //知识点3：判断数组中是否包含某个元素
         System.out.println(Arrays.asList(1, 2, 3, 4).contains(4));
 
     }

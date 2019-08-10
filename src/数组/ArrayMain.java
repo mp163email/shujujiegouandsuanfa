@@ -1,6 +1,7 @@
 package 数组;
 
 /**
+ * 动态数组
  * des: 有几个知识点，都标注了
  * created by miapoeng on 2019/8/9 10:29
  */

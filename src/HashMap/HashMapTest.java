@@ -2,6 +2,7 @@ package HashMap;
 
 /**
  * des: 自定义HashMap测试
+ * 知识点：HashMap是数组加链表   数组指把Key的hashcode % 16取余，组装成Entity放到这个数组的索引下； 当这个索引如果有entity了，就放到这个entity的next里
  * created by miapoeng on 2019/1/15 10:02
  */
 public class HashMapTest {

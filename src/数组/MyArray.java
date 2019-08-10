@@ -59,6 +59,34 @@ public class MyArray<T> { //知识点5-泛型的应用 <T>
         }
     }
 
+    public T removeLast () {
+        if (size == 0) {
+            throw new IllegalArgumentException("空");
+        }
+        T delData = data[size - 1];
+        data[size - 1] = null;
+        size--;
+        return delData;
+    }
+
+    public T get (int index) {
+        if (index < 0 || index >= size) {
+            throw new IllegalArgumentException("get的参数不合法");
+        }
+        return data[index];
+    }
+
+    public T getLast () {
+        if (size == 0) {
+            throw new IllegalArgumentException("空");
+        }
+        return data[size - 1];
+    }
+
+    public int size () {
+        return size;
+    }
+
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();

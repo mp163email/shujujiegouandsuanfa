@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f92b079-d267-4423-bc80-d54f4b9869ef" name="Default Changelist" comment="" />
+    <list default="true" id="9f92b079-d267-4423-bc80-d54f4b9869ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/栈/1565423586(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/1565423756(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/MyStackByArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/StackInter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈/StackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构/HashMap/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构/HashMap/HashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构/数组/ArrayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构/数组/ArrayMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/数据结构/数组/MyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/数据结构/数组/MyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap/HashMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap/HashMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组/ArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/ArrayMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组/MyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/编码常用/数组转List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/编码常用/数组转List.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,52 +26,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/编码常用/数组转List.java">
+        <entry file="file://$PROJECT_DIR$/src/栈/StackMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="162">
+              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/栈/MyStackByArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMap/Entry.java">
+        <entry file="file://$PROJECT_DIR$/src/数组/MyArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMap/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="50" column="41" lean-forward="true" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMap/HashMapTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            <state relative-caret-position="277">
+              <caret line="96" column="25" lean-forward="true" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
               <folding>
-                <element signature="e#681#697#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#1883#1884#0" expanded="true" />
+                <element signature="e#1909#1910#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMap/Map.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -67,6 +79,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,6 +91,9 @@
       <find>obstacle</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -85,17 +101,21 @@
         <option value="$PROJECT_DIR$/src/AStar/Cell.java" />
         <option value="$PROJECT_DIR$/src/AStar/Test.java" />
         <option value="$PROJECT_DIR$/src/AStar/CellMgr.java" />
-        <option value="$PROJECT_DIR$/src/编码常用/数组转List.java" />
         <option value="$PROJECT_DIR$/src/二分搜索树/Student.java" />
         <option value="$PROJECT_DIR$/src/二分搜索树/TestNullMem.java" />
         <option value="$PROJECT_DIR$/src/二分搜索树/BST.java" />
         <option value="$PROJECT_DIR$/src/二分搜索树/BstMain.java" />
         <option value="$PROJECT_DIR$/src/数组/Stu.java" />
-        <option value="$PROJECT_DIR$/src/数组/MyArray.java" />
-        <option value="$PROJECT_DIR$/src/数组/ArrayMain.java" />
         <option value="$PROJECT_DIR$/src/ArrayList/ArrayList.java" />
         <option value="$PROJECT_DIR$/src/HashMap/Entry.java" />
+        <option value="$PROJECT_DIR$/src/编码常用/数组转List.java" />
         <option value="$PROJECT_DIR$/src/HashMap/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/数组/ArrayMain.java" />
+        <option value="$PROJECT_DIR$/src/栈/MyStack.java" />
+        <option value="$PROJECT_DIR$/src/栈/StackInter.java" />
+        <option value="$PROJECT_DIR$/src/数组/MyArray.java" />
+        <option value="$PROJECT_DIR$/src/栈/MyStackByArray.java" />
+        <option value="$PROJECT_DIR$/src/栈/StackMain.java" />
       </list>
     </option>
   </component>
@@ -105,12 +125,14 @@
     <option name="width" value="798" />
     <option name="height" value="558" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,18 +149,19 @@
               <item name="数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="HashMap" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565404766138" />
-    <property name="last_opened_file_path" value="D:/老工程/distance/Project/Assets/LuaScripts" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565431660823" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -146,6 +169,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\数据结构\src\栈" />
       <recent name="D:\work\数据结构\src\HashMap" />
       <recent name="D:\work\数据结构\src\ArrayList" />
       <recent name="D:\work\数据结构\src\二分搜索树" />
@@ -164,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapTest">
+  <component name="RunManager" selected="Application.StackMain">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.ArrayList" />
       <module name="数据结构" />
@@ -191,19 +215,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BstMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二分搜索树.BstMain" />
-      <module name="数据结构" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="二分搜索树.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMap.HashMapTest" />
       <module name="数据结构" />
@@ -217,12 +228,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNullMem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="二分搜索树.TestNullMem" />
+    <configuration name="数组转List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="编码常用.数组转List" />
       <module name="数据结构" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="二分搜索树.*" />
+          <option name="PATTERN" value="编码常用.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="栈.StackMain" />
+      <module name="数据结构" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="栈.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackMain" />
+        <item itemvalue="Application.数组转List" />
         <item itemvalue="Application.HashMapTest" />
         <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.ArrayMain" />
-        <item itemvalue="Application.BstMain" />
-        <item itemvalue="Application.TestNullMem" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +280,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.26987952" visible="true" weight="0.19894099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.26987952" visible="true" weight="0.20499243" />
       <window_info id="Structure" order="1" sideWeight="0.7301205" side_tool="true" weight="0.1603631" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -267,8 +291,8 @@
       <window_info id="simpleUML" order="8" weight="0.32980332" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="0" y="230" width="1370" height="277" id="Run" order="2" type="WINDOWED" weight="0.2625418" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.30769232" />
+      <window_info anchor="bottom" x="46" y="497" width="1370" height="238" id="Run" order="2" type="WINDOWED" weight="0.2625418" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.30653265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,20 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组/MyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组/ArrayMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/二分搜索树/BstMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -442,12 +452,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMap/HashMapTest.java">
+    <entry file="file://$PROJECT_DIR$/src/编码常用/数组转List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        <state relative-caret-position="288">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
-            <element signature="e#681#697#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -459,27 +469,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HashMap/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="50" column="41" lean-forward="true" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HashMap/Entry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="522">
+          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/编码常用/数组转List.java">
+    <entry file="file://$PROJECT_DIR$/src/HashMap/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="25" />
+          <folding>
+            <element signature="e#1439#1440#0" expanded="true" />
+            <element signature="e#1500#1501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈/StackInter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组/ArrayMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组/MyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="96" column="25" lean-forward="true" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#1883#1884#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈/MyStackByArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈/1565423756(1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈/StackMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -574,6 +652,7 @@
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
       <option name="birdViewUpdateDelay" value="2000" />
+      <option name="knownFile0" value="file://$PROJECT_DIR$/../11.suml" />
       <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
     </General>
     <Classdiagram>
