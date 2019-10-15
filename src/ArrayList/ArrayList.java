@@ -1,6 +1,7 @@
 package ArrayList;
 
 import java.util.Arrays;
+import java.util.List;
 
 /**
  * des:
@@ -25,6 +26,9 @@ public class ArrayList {
         System.out.println(ints1.length);
         System.out.println(ints1[2]);
         System.out.println(ints1[3]);
+
+
+
     }
 
 }
